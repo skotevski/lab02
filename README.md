@@ -1,24 +1,24 @@
 # Lab 02 -- Chapter 01
 
-## Define the followint terms:
-* object,
-* class,
-* instance,
-* method,
-* signature,
-* parameter,
-* type,
-* state,
-* source code,
-* return value,
-* compiler
+## Define the following terms:
+* object, A specific instance of a class (can be a combination of variables, functions, and data structures)  
+* class, A blueprint or set of instructions from which individual objects are created
+* instance, A specific realization of any object that emphasizes the distinct identity of the object.
+* method, A certain procedure that is associated with an object. 
+* signature, Code that includes the method name, and the number, types and order of its parameters, and is the smallest type of a method. 
+* parameter, A special kind of variable in that is used to pass information between functions or procedures. 
+* type, A classification identifying one of various types of data that determines the possible values for that type, the operations that can be done on values of that type, the meaning of the data, and the way values of that type can be stored.
+* state, All of the stored information, at a given instant in time, that the circuit or program has access to.
+* source code, The only stage where a programmer would be able to read and modify a certain computer program.
+* return value, Whatever the function is returning (Examples include the value of a variable, an object, a reference, or anything else
+* compiler, A program or set of programs that transforms source code written in a programming language (the source language) into another computer language (the target language), with the latter often having a binary form known as object code. Compilers also effectively transform the source code into a code that the computer can read and utilize. 
 
 ## In Chapter 1 we have mentioned the data types int and String. Java has more predefined data types. Find out what they are and what they are used for. To do this, you can check Appendix B, or look it up in another Java book or in an online Java language manual. One such manual is at [http://download.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html](http://download.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html)
 
 ## What are the types of the following values?
 
-* 0
-* "hello"
+* 0 A Byte
+* "hello" 
 * 101
 * -1
 * true
