@@ -17,13 +17,20 @@
 
 ## What are the types of the following values?
 
-* 0 A Byte
-* "hello" 
+* 0 
+* A Byte
+* "hello"
+* 
 * 101
+* 
 * -1
+* 
 * true
+* 
 * "33"
+* 
 * 3.1415
+* 
 
 ## What would you have to do to add a new field, for example one called name, to a circle object?
 
