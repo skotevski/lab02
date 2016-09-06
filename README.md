@@ -17,27 +17,34 @@
 
 ## What are the types of the following values?
 
-* 0 
-* A Byte
-* "hello"
-* 
-* 101
-* 
-* -1
-* 
-* true
-* 
-* "33"
-* 
-* 3.1415
-* 
+* 0 = Byte 
+* "hello" = string   
+* 101 = Short
+* -1 = byte
+* true = boolean
+* "33" = byte 
+* 3.1415 = float 
 
 ## What would you have to do to add a new field, for example one called name, to a circle object?
+In order to add a new field, in this case "name", to a circular object, you would have to make sure that the circle object is first assigned to a class. After that, you would write 
+
+public static void main (String[] args) {
+Circleobject = new circleobject ();
+}
+
+(Honestly I was very confused with this question, so after researching for a while, this was the best thing I've found, and I am pretty sure it is still incorrect)
+
 
 ## Write the header for a method named send that has one parameter of type String, and does not return a value.
-
+public static String send(String a) {
+  // body
+}
 ## Write the header for a method named average that has two parameters, both of type int, and returns an int value.
-
+ public static int average (int a, int b) {
+   return a or b;
+  }
 ## Look at the book you are reading right now. Is it an object or a class? If it is a class, name some objects. If it is an object, name its class.
+The book that I am reading right now is a class. Some of the objects that would be in the class book, would be the amount of pages the book has, the color of the cover of the book, the author(s) of the book, the publication date, the chapters of the book, the contents inside the chapters etc. 
 
 ## Can an object have several different classes? Discuss.
+An object cannot have several different classes. This is because an object is an entity that is essentially created from a class. It would not make any sense for an object to have or essentially create classes if the classes are what has created it in the first place. That being said, the object would still be able to implement multiple interfaces, and it can still subclass a class with multiple superclasses, but it cannot be more than one object at a time.
