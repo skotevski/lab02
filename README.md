@@ -37,7 +37,7 @@ public void send (String var1)
 ```
 ## Write the header for a method named average that has two parameters, both of type int, and returns an int value.
 ```
-public int average ( int v1, int v2
+public int average ( int v1, int v2)
 ```
 
 ## Look at the book you are reading right now. Is it an object or a class? If it is a class, name some objects. If it is an object, name its class.
