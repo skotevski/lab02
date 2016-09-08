@@ -26,6 +26,7 @@
 * true :: boolean
 * "33" :: String 
 * 3.1415 = double, float?
+
 ## What would you have to do to add a new field, for example one called name, to a circle object?
 ```
 private String name;
